@@ -1,5 +1,6 @@
 # DS4002_CS3
 CS3 Deliverable for DS 4002, Fall 2024
+
 MaryGrace Gozzi (jpk5nq)
 
 # Keith Lee Case Study: What is the Role of the Influencer?
